@@ -1,4 +1,6 @@
 # EngenhariaSoftwareII
-Exercício Engenharia de Software II /n
-Enrico Zernik /n
+Exercício Engenharia de Software II
+
+Enrico Zernik
+
 Thiago Serrano Martins Hortelli
